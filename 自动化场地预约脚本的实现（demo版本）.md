@@ -22,19 +22,19 @@
 
 ### 第一步
 
-![image-20240821104616129](C:\Users\zy202\AppData\Roaming\Typora\typora-user-images\image-20240821104616129.png)
+![image-20240821104616129](https://github.com/captainwhite147/revenue-reserve-script/blob/main/pic/image-20240821104616129.png)
 
 这是进入到选择场地的界面过程中抓到的所有流量包，可以先看到这么多流量包中包括了document文件，网页中的js和css文件以及该页面具有的一些jpg和png图片，对于我们的抓包而言我们只需要获取到html的内容，所以只需要关注document文件即可。
 
-![image-20240821104857774](C:\Users\zy202\AppData\Roaming\Typora\typora-user-images\image-20240821104857774.png)
+![image-20240821104857774](https://github.com/captainwhite147/revenue-reserve-script/blob/main/pic/image-20240821104857774.png)
 
 这是第一个文档文件的预览
 
 仔细阅读html代码可以发现网页中有一个token值和cg_csrf_token值，但是还不知道有何用处，其余代码并无特殊之处，我们分析完进行下一步抓包
 
-![image-20240821105149972](C:\Users\zy202\AppData\Roaming\Typora\typora-user-images\image-20240821105149972.png)
+![image-20240821105149972](https://github.com/captainwhite147/revenue-reserve-script/blob/main/pic/image-20240821105141892.png)
 
-![image-20240821105141892](C:\Users\zy202\AppData\Roaming\Typora\typora-user-images\image-20240821105141892.png)
+![image-20240821105141892](https://github.com/captainwhite147/revenue-reserve-script/blob/main/pic/image-20240821105149972.png)
 
 ### 第二步
 
